@@ -1,0 +1,259 @@
+DSS-105187
+
+
+
+DSS-105165	jcruciani94@gmail.com
+DSS-104849	rooneyk78@gmail.com
+DSS-100428	briandaniel3151@gmail.com
+DSS-105187	Thadq22@icloud.com
+DSS-105001	2kmcy2@gmail.com
+DSS-100471	briandaniel3151@gmail.com
+DSS-104963	frank@ferrisfa.com
+DSS-104959	mcmahanrita@gmail.com
+DSS-104601	musselsmarinara420@gmail.com
+DSS-104553	mikehallav@gmail.com
+DSS-104539	emilee_boyd@yahoo.com
+
+DSS-105889	tyhedegard@icloud.com
+DSS-105820	milcetich@gmail.com
+DSS-105554	bethlawson61@gmail.com
+DSS-101914	sacasas@yahoo.com
+DSS-104963	frank@ferrisfa.com
+DSS-104350	mr_a_cortez@hotmail.com
+
+
+
+
+mom2bay@gmail.com    DSS-103865
+bonnie.snyder513@gmail.com  DSS-101390
+slehrer@tampabay.rr.com    DSS-101322
+DSS-87799
+liliana.21055@gmail.com  DSS-101801   done
+444jilly6000@gmail.com   DSS-101889
+DSS-103457
+
+
+
+joshinit25@gmail.com		DSS-104249
+v.welz@yahoo.com		DSS-104250
+adam@adamdubilo.com		DSS-104190
+peagantwitty@gmail.com		DSS-104154
+486jrb@gmail.com		DSS-104198
+jessica.marcano@aol.com		DSS-104189
+c.lynn.8605@gmail.com		DSS-104167
+benjaminwarthur84@gmail.com	DSS-104131
+carlucciman2000@yahoo.com	DSS-104071
+jlockett312@gmail.com		DSS-104009
+mom2bay@gmail.com
+bwmauch@gmail.com		DSS-103878
+recentrisk@gmail.com
+onthe4wind@comcast.net
+ronhearn@comcast.net
+joeaculberson@gmail.com
+cshndz@icloud.com
+steven.barden@outlook.com
+lydiadangelo69@yahoo.com
+benjamindmiller0@gmail.com
+tjones1223.tj@gmail.com
+leemari.rivera@gmail.com
+
+bcbiv@bellsouth.net
+sacasas@yahoo.com
+cameronscott.brks@gmail.com
+troy.warren.tjw@gmail.com
+
+910 error finicity end
+
+request has been assigned ticket
+
+photoguymike@gmail.com
+ripple2k4@yahoo.com
+johnsonlaurenm@hotmail.com
+hazel.wilbanks@gmail.com
+dfoss392@gmail.com
+josephdancu1990@icloud.com
+mpena0459@yahoo.com
+Mamabear113@gmail.com
+nsavac1@pride.hofstra.edu
+
+
+lydiadangelo69@yahoo.com
+
+naomi@imacdanny.com
+linnielane@gmail.com
+sacasas@yahoo.com
+444jilly6000@gmail.com
+geneva8@yahoo.com
+liliana.21055@gmail.com
+satellitehearted@gmail.com
+hazel.wilbanks@gmail.com
+debholcomb19@gmail.com
+
+refresh account by login id evry time adding a new account
+after AGG before ACH
+
+Yes, they are, but we are getting the WRONG account number with ACH. 
+We are getting the same account number over and over that the bank has told us via a rejected debit is incorrect.
+
+So updating the banking with Finicity results in the same WRONG banking info each time, 
+even though Finicity says it is working and AGG appears to be accurate.
+
+This is why R03 and R04 are such problems from Finicity.
+
+
+lholling@bellsouth.net  DSS-101567
+gregbrooks712@gmail.com  DSS-101198
+DSS-101174
+DSS-101322
+DSS-100510 & DSS-101431
+DSS-100428
+DSS-99830  --> removed
+DSS-98925  --> removed
+
+
+
+not include
+DSS-101076
+DSS-98925
+DSS-100070
+
+slehrer@tampabay.rr.com
+> manual the currently active accnt
+
+jen.joseph@me.com
+> Finicity call
+
+
+25/7
+DSS-101076
+DSS-100510
+DSS-98925
+DSS-99830
+DSS-100070
+DSS-100759
+
+
+DSS-99590
+DSS-98694
+DSS-99444
+DSS-98925
+DSS-98746
+DSS-98693
+DSS-99128
+DSS-98709
+DSS-97505
+DSS-97964
+DSS-95970
+DSS-99462
+DSS-99397
+DSS-98615
+DSS-99128
+
+1	DSS-97022
+2	DSS-97025
+3	DSS-98026
+4	DSS-96434
+5	DSS-97369
+6	DSS-97964
+7	DSS-97405
+8	DSS-99033
+9	DSS-98693
+10	DSS-98695
+11	DSS-98694
+12	DSS-98615
+
+jmlewis13@hotmail.com  ---> TD
+
+ejames.moore@yahoo.com  ----> TD
+
+joestrockbine@mail.com
+Corrado.matthew@gmail.com
+DSS-97025 TD Bank linking issue
+micheller26@hotmail.com
+john.mccormack@ymail.com
+07roadking1964@gmail.com
+alice.d.honey@gmail.com
+ejames.moore@yahoo.com
+
+jcromis@msn.com  DSS-97511
+
+DSS-97022   -----   fini
+DSS-97025    ------   fin cust id ?
+DSS-97027	cory.marker51@gmail.com
+DSS-97564	alias_fakename@outlook.com	
+DSS-97616	john.mccormack@ymail.com
+DSS-97660	Marti.Purdy@gmail.com
+DSS-97665	miles.mimms@gmail.com
+DSS-97780	rschwab1130@gmail.com
+DSS-97798	alice.d.honey@gmail.com
+DSS-97799	jeremy813@gmail.com  sm
+DSS-97840	ecloev@outlook.com
+DSS-97988	ifxkyourswag44@gmail.com
+DSS-98008	athenamlynn@aol.com
+DSS-98009	jennbrown9614@gmail.com
+DSS-98025   -----
+DSS-98026	marm0lade@gmail.com   param finci
+DSS-98102	mamawenzel37@gmail.com
+DSS-98104	larryconatser@gmail.com
+DSS-98111	a.bentz33@gmail.com
+DSS-98113	spedrick76@gmail.com
+DSS-98116	msapril200@gmail.com   ask fincity
+DSS-98208	jwwatson1953@outlook.com
+DSS-98209	corrado.matthew@gmail.com
+DSS-98335 	debsdoos5858@gmail.com
+DSS-98336	drjones42@gmail.com
+DSS-98337	morgan.b.glassman@icloud.com
+DSS-98344 	tdcscissors@gmail.com
+DSS-98345	poagjw@aol.com
+DSS-98346	christopherpavone@gmail.com
+DSS-98347	gsemike42@yahoo.com  sm
+DSS-98372	nschafer999@ne.com
+DSS-98383	pspearman581@gmail.com
+DSS-98385	neckcromunger@hotmail.com
+DSS-98390     	mlphoto@mindspring.com
+jcromis@msn.com  sm
+
+
+request has been assigned ticket
+
+financial data is of paramount importance.
+
+DSS-95683   ---- no eta
+DSS-88018   ---- no eta
+DSS-96434   ----url
+DSS-97334  --- fix tab
+DSS-97369
+DSS-97964 -- invalid app token
+DSS-98642
+
+DSS-97403
+DSS-97505
+
+gdreed9@gmail.com
+
+git branch --show-current
+curl -fsSL
+
+DSS-97022
+DSS-97025
+DSS-98026 marm0lade@gmail.com  parameter missing
+DSS-96434 --url correct format
+DSS-97369  net spend
+DSS-97964  finicity app token
+DSS-97405  didn't receive any ack
+DSS-99033
+DSS-98693  URL is not in the correct format not exist in portal
+DSS-98695 mentioned suntrust no longer exist but later response say didn't find any issue
+DSS-98694
+DSS-98615
+
+
+dnova316@yahoo.com
+griffin5255@yahoo.com
+8132986193
+fbradford469@gmail.com
+vs.roberson@ymail.com
+kolvr723@yahoo.com
+zigzag03@earthlink.net
+DSS-99590
+lindalou90@verizon.net
